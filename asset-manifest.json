@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/galocontratacoes/static/css/main.31d6cfe0.css",
+    "main.js": "/galocontratacoes/static/js/main.235c0bcf.js",
+    "index.html": "/galocontratacoes/index.html",
+    "main.235c0bcf.js.map": "/galocontratacoes/static/js/main.235c0bcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.235c0bcf.js"
+  ]
+}
